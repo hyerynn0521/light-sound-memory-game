@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![Losing gameplay](https://cdn.glitch.global/96d3a536-4bdc-485f-903e-bd408bc6eec8/lose-game.gif?v=1648775231402)
-![Winning gameplay](https://cdn.glitch.global/96d3a536-4bdc-485f-903e-bd408bc6eec8/win-game.gif?v=1648775238208)
+<img src="https://cdn.glitch.global/96d3a536-4bdc-485f-903e-bd408bc6eec8/win-game.gif?v=1648775238208"></img>
 
 
 ## Reflection Questions
